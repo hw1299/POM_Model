@@ -3,12 +3,10 @@
 ## V0.9
 
 a
+
 $$
 a
 $$
-
-
-
 
 Regression rate with given heat flux:
 $$
