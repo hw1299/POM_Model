@@ -31,7 +31,7 @@ $$
 - $E_a$ = 30 kcal/mol[^5][^6][^7][^8][^9]
 - $\Delta_rH$ = 56 kJ/mol[^10]
 - $\Delta h_{\rm LH}$ = 150 J/g[^11]
-- $T_{\rm melt}$ = 165$^\circ$C[^12][^13]
+- $T_{\rm melt}$ = 165$`^\circ`$C[^12][^13]
 - $\gamma$ = 1
 - $R_u$ = 8.314 J/mol$`\cdot`$K
 
