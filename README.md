@@ -37,7 +37,7 @@ $$
 
 ### Schematic
 
-![polymerschematic](fig/polymerschematic.png)
+<img src="img/polymerschematic.png" width="500"/>
 
 ### Assumptions
 
@@ -62,7 +62,7 @@ Properties which need to be assigned:
 - $\Delta h_{\rm LH}$: latent heat of POM fusion, J/kg;
 - MW: POM molecular weight, kg/mol;
 - MW$_0$: POM monomer (CH<sub>2</sub>O) molecular weight;
-- $A_\beta$: intrinsic pre-exponential factor for C$-$O $\beta$-scission, s<sup>-1</sup>;
+- $A_\beta$: intrinsic pre-exponential factor for C$-$ O $\beta$-scission, s<sup>-1</sup>;
 - $E_a$: activation energy for POM decomposition, J/mol;
 - $R_u$: universal gas constant, J/mol$\cdot$K;
 
