@@ -3,16 +3,19 @@
 ## V0.9
 
 Regression rate with given heat flux:
+
 $$
 r_b=\frac{\dot{Q}_0''}{\rho(\Delta h_{\rm LH}+\frac{\Delta_rH}{{\rm MW}_0})}.
 $$
+
 Regression rate with given surface temperature:
+
 $$
 r_b=\frac{kE_a}{\Delta h_{\rm LH}\rho R_u}\sqrt{\frac{2\tilde{A}[g(\tilde{\theta}_S)-g(\tilde{\theta}_{\rm melt})]}{(1+\tilde{h})^2-1}},
 $$
 
-
 where
+
 $$
 \tilde{A}=\frac{2\Delta_rH\rho A_\beta R_u\gamma}{{\rm MW}kE_a},\quad \tilde{\theta}_S=\frac{R_uT_S}{E_a},\quad \tilde{\theta}_{\rm melt}=\frac{R_uT_{\rm melt}}{E_a},\quad \tilde{h}=\frac{\Delta_rH}{{\rm MW}_0\Delta h_{\rm LH}},\\
 g(u)={\rm Ei}\left(-\frac{1}{u}\right)+u\exp\left(-\frac{1}{u}\right),\quad {\rm Ei}(u)=\int_{-\infty}^u\frac{\exp(t)}{t}{\rm d}t.
