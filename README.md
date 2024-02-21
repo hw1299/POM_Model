@@ -2,13 +2,8 @@
 
 ## V0.9
 
-a
-
-$$
-a
-$$
-
 Regression rate with given heat flux:
+
 $$
 r_b=\frac{\dot{Q}_0''}{\rho(\Delta h_{\rm LH}+\frac{\Delta_rH}{{\rm MW}_0})}.
 $$
@@ -38,7 +33,7 @@ $$
 - $\Delta h_{\rm LH}$ = 150 J/g[^11]
 - $T_{\rm melt}$ = 165$^\circ$C[^12][^13]
 - $\gamma$ = 1
-- $R_u$ = 8.314 J/mol$\cdot$K
+- $R_u$ = 8.314 J/mol$`\cdot`$K
 
 ### Schematic
 
