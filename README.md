@@ -11,7 +11,7 @@ $$
 Regression rate with given surface temperature:
 
 $$
-r_b=\frac{kE_a}{\Delta h_{\rm LH}\rho R_u}\sqrt{\frac{2\tilde{A}[g(\tilde{\theta}_S)-g(\tilde{\theta}_{\rm melt})]}{(1+\tilde{h})^2-1}},
+r_b=\frac{kE_a}{\Delta h_\text{LH}\rho R_u}\sqrt{\frac{2\tilde{A}[g(\tilde{\theta}_S)-g(\tilde{\theta}_\text{melt})]}{(1+\tilde{h})^2-1}},
 $$
 
 where
