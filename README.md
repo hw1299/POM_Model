@@ -2,8 +2,12 @@
 
 ## V0.9
 
-Regression rate with given heat flux:
+a
+$$
+a
+$$
 
+Regression rate with given heat flux:
 $$
 r_b=\frac{\dot{Q}_0''}{\rho(\Delta h_{\rm LH}+\frac{\Delta_rH}{{\rm MW}_0})}.
 $$
