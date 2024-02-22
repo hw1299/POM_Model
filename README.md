@@ -20,7 +20,7 @@ g(u)={\rm Ei}\left(-\frac{1}{u}\right)+u\exp\left(-\frac{1}{u}\right),\quad {\rm
 
 ### Parameters and source
 
-- $k$ = 0.14 W/m$\cdot$K[^1]
+- $k$ = 0.14 W/m$`\cdot`$K[^1]
 - $\rho$ = 1.2 g/cm<sup>3</sup>[^2]
 - ${\rm MW}_0$ = 30 g/mol
 - ${\rm MW}$ = 1e5 g/mol[^3]
@@ -42,7 +42,7 @@ g(u)={\rm Ei}\left(-\frac{1}{u}\right)+u\exp\left(-\frac{1}{u}\right),\quad {\rm
 - Constant $k$, MW, $\rho$, $\gamma$.
 - Chemical reaction only occurs in the liquid phase.
 - Regression is only due to releasing CH<sub>2</sub>O. No POM vaporization.
-- The initiation reaction  is neglected [CH<sub>3</sub>COO(CH<sub>2</sub>O)$_n$COCH<sub>3</sub> $\rightarrow$ (CH<sub>2</sub>O)$_n$].
+- The initiation reaction  is neglected [CH<sub>3</sub>COO(CH<sub>2</sub>O)$`_n`$COCH<sub>3</sub> $\rightarrow$ (CH<sub>2</sub>O)$`_n`$].
 
 ### Nomenclature
 
@@ -54,14 +54,14 @@ Profile variables:
 Properties which need to be assigned:
 
 - $\rho$: liquid phase density, kg/m<sup>3</sup>;
-- $k$: liquid phase thermal conductivity, W/m$\cdot$K;
+- $k$: liquid phase thermal conductivity, W/m$`\cdot`$K;
 - $\Delta_rH$: heat of reaction, J/mol;
 - $\Delta h_{\rm LH}$: latent heat of POM fusion, J/kg;
 - MW: POM molecular weight, kg/mol;
-- MW$_0$: POM monomer (CH<sub>2</sub>O) molecular weight;
-- $A_\beta$: intrinsic pre-exponential factor for C $y$O $\beta$-scission, s<sup>-1</sup>;
+- MW$`_0`$: POM monomer (CH<sub>2</sub>O) molecular weight;
+- $A_\beta$: intrinsic pre-exponential factor for C$`-`$O $\beta$-scission, s<sup>-1</sup>;
 - $E_a$: activation energy for POM decomposition, J/mol;
-- $R_u$: universal gas constant, J/mol$\cdot$K;
+- $R_u$: universal gas constant, J/mol$`\cdot`$K;
 
 Six properties linked with three equations:
 
