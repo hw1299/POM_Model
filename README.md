@@ -3,13 +3,11 @@
 ## V0.9
 
 Regression rate with given heat flux:
-
 ```math
 r_b=\frac{\dot{Q}_0''}{\rho(\Delta h_{\rm LH}+\frac{\Delta_rH}{{\rm MW}_0})}.
 ```
 
 Regression rate with given surface temperature:
-
 ```math
 r_b=\frac{kE_a}{\Delta h_\text{LH}\rho R_u}\sqrt{\frac{2\tilde{A}[g(\tilde{\theta}_S)-g(\tilde{\theta}_\text{melt})]}{(1+\tilde{h})^2-1}},
 ```
