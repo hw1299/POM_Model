@@ -1,5 +1,7 @@
 # POM Model
 
+An analytical steady state model for calculating polyoxymethylene (POM) regression rate in LES with given heat flux or surface temperature.
+
 ## V0.9
 
 Regression rate with given heat flux:
