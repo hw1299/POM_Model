@@ -4,9 +4,9 @@
 
 Regression rate with given heat flux:
 
-$$`
+```math
 r_b=\frac{\dot{Q}_0''}{\rho(\Delta h_{\rm LH}+\frac{\Delta_rH}{{\rm MW}_0})}.
-`$$
+```
 
 Regression rate with given surface temperature:
 
