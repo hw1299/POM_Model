@@ -37,6 +37,12 @@ g(u)={\rm Ei}\left(-\frac{1}{u}\right)+u\exp\left(-\frac{1}{u}\right),\quad {\rm
 - $\gamma$ = 1
 - $R_u$ = 8.314 J/mol$`\cdot`$K
 
+### Gas phase kinetics model
+
+In "mechanism" folder: 13 species, 47 reactions. FFCM-2 formaldehyde sub model.
+- *.inp, *.dat: Chemkin format files
+- *.cti, *.yaml: Cantera format files
+
 ### Schematic
 
 <img src="img/polymerschematic.png" width="500"/>
@@ -56,26 +62,21 @@ Profile variables:
 - $T$: temperature, K;
 - $x$: depth, m;
 
-Properties which need to be assigned:
+Parameters:
 
-- $\rho$: liquid phase density, kg/m<sup>3</sup>;
 - $k$: liquid phase thermal conductivity, W/m$`\cdot`$K;
-- $\Delta_rH$: heat of reaction, J/mol;
-- $\Delta h_{\rm LH}$: latent heat of POM fusion, J/kg;
-- MW: POM molecular weight, kg/mol;
-- MW$`_0`$: POM monomer (CH<sub>2</sub>O) molecular weight;
+- $\rho$: liquid phase density, kg/m<sup>3</sup>;
+- ${\rm MW}_0$: POM monomer (CH<sub>2</sub>O) molecular weight;
+- ${\rm MW}$: POM molecular weight, kg/mol;
 - $A_\beta$: intrinsic pre-exponential factor for C$`-`$O $\beta$-scission, s<sup>-1</sup>;
 - $E_a$: activation energy for POM decomposition, J/mol;
+- $\Delta_rH$: heat of reaction, J/mol;
+- $\Delta h_{\rm LH}$: latent heat of POM fusion, J/kg;
 - $R_u$: universal gas constant, J/mol$`\cdot`$K;
-
-Six properties linked with three equations:
-
-- $\dot{Q}_0''$: heat flux through the top surface, W/m<sup>2</sup>.
-- $r_b$: regression rate of the top surface, m/s;
-- $L$: liquid layer thickness, m;
 - $T_S$: surface temperature at liquid-gas interface, K;
 - $T_{\rm melt}$: POM melting point, temperature at solid-liquid interface, K;
 - $\gamma$: pre-exponential factor temperature-dependent correction.
+- $r_b$: regression rate of the top surface, m/s;
 
 ## Reference
 
