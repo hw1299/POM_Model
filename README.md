@@ -82,6 +82,7 @@ Parameters:
 
 ## Contributors
 Wendi Dong, Nikolaos Kateris, Nicholas J. Montes, Hai Wang
+
 Mechanical Engineering Department, Stanford University, Stanford, California 94305, United States
 
 ## References
