@@ -80,6 +80,10 @@ Parameters:
 - $\gamma$: pre-exponential factor temperature-dependent correction.
 - $r_b$: regression rate of the top surface, m/s.
 
+## Contributors
+Wendi Dong, Nikolaos Kateris, Nicholas J. Montes, Hai Wang
+Mechanical Engineering Department, Stanford University, Stanford, California 94305, United States
+
 ## References
 
 [^1]: **POM handbook.** S. Luftl, P. Visakh, S. Chandran, Polyoxymethylene handbook: structure, properties, applications and their nanocomposites, John Wiley & Sons, 2014.
