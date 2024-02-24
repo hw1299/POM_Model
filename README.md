@@ -1,8 +1,6 @@
-# POM Model
+# A Steady-State Model of Molten Polymer Regression due to Thermal Decomposition ## V0.9
 
-An analytical steady state model for calculating polyoxymethylene (POM) regression rate for a given heat flux or surface temperature.
-
-## V0.9
+An analytical, steady-state model for calculating the regression rate of a polymer undert a given heat flux or surface temperature.
 
 Regression rate for given heat flux:
 
